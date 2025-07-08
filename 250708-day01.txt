@@ -1,0 +1,7 @@
+slowly initiate my learning plan
+今天是对py的初见（好吧也许可以这么说，因为是我第一次想坚持下去好好学）
+get：1.基本元素（变量、运算符、etc）
+        2.basic语法（以前没怎么关注这个）
+        3.一些基本的例子（cpp中都学过，看看py怎么写）
+feeling：与cpp有异有同（更加简洁，语法更像人类思考的 but may 慢）
+今日实战：CRAPS赌博游戏
